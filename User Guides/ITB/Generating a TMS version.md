@@ -5,7 +5,10 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 ## Structure of the Guide
 
 ### 1. Technical Topology
-- Overview of the technical topology  necessary for implementing the TMS LE.
+- Overview of the technical topology for implementing the TMS Level 1.
+- Repository Structure, Folders and configuration.
+- Adapter
+- 
 
 ### 2. Track Plan
 - Configuration of the track layout and its specifications.
