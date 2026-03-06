@@ -2,6 +2,8 @@
 
 This guide provides a comprehensive overview of the ITB (Interface of Bus Terminal) generation process within the context of the TMS. We will cover the key components involved in this process, including Technical Topology, Track Plan, Operational Topology, and Network Topology.
 
+---
+
 ## Structure of the Guide
 ### 0. [[#General]]
 -  Repository Structure.
@@ -28,16 +30,15 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 - Overview of the operational topology for implementing the TMS Level 2.
 - Gate Stations.
 
-
 ### 4. Network Topology
 - Overview of the operational topology for implementing the TMS Level 2.
 
 
-## Purpose of This Guide
-This guide aims to assist professionals involved in the implementation and optimization of ITB, providing clear and detailed step-by-step instructions to ensure successful utilization of the TMS.
-
-
-
+---
 # General
+
+### Repository Structure 
+
+The repository is composed by a several folders, which one represents a version of Specif Application of TMS. The project is divided 
 
 
