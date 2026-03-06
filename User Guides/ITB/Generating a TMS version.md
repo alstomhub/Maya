@@ -3,7 +3,7 @@
 This guide provides a comprehensive overview of the ITB (Interface of Bus Terminal) generation process within the context of the TMS. We will cover the key components involved in this process, including Technical Topology, Track Plan, Operational Topology, and Network Topology.
 
 ## Structure of the Guide
-### 0. General
+### 0. [[#General]]
 -  Repository Structure.
 - COS.
 - Railml.
@@ -39,4 +39,5 @@ This guide aims to assist professionals involved in the implementation and optim
 
 
 # General
+
 
