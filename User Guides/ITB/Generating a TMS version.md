@@ -35,3 +35,8 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 
 ## Purpose of This Guide
 This guide aims to assist professionals involved in the implementation and optimization of ITB, providing clear and detailed step-by-step instructions to ensure successful utilization of the TMS.
+
+
+
+# General
+
