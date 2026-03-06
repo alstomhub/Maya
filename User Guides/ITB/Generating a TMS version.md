@@ -4,30 +4,34 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 
 ## Structure of the Guide
 ### 0. General
--  Repository Structure Overview.
-- COS and Railml.
-- Inputs Configuration.
+-  Repository Structure.
+- COS.
+- Railml.
+- Initial Configuration.
 
 ### 1. Technical Topology
 - Overview of the technical topology for implementing the TMS Level 1.
 - Adapter.
 - Building.
 - Update Manager.
-- Borders Configuration.
 - Stations.
 - Lines.
+- Border Configuration.
+- Gate Stations.
+- Interface Track Circuits
+- Platforms
 
 ### 2. Track Plan
-- Configuration of the track layout and its specifications.
-- Integration of the track plan with the Transportation Management System.
+- Berths
 
 ### 3. Operational Topology
-- Essential operational procedures to ensure effective flow of information.
-- Coordination among different components of the TMS.
+- Overview of the operational topology for implementing the TMS Level 2.
+- Gate Stations.
+
 
 ### 4. Network Topology
-- Structure of the network supporting communication and data exchange.
-- Ensuring cohesion and efficiency within the system.
+- Overview of the operational topology for implementing the TMS Level 2.
+- 
 
 ## Purpose of This Guide
 This guide aims to assist professionals involved in the implementation and optimization of ITB, providing clear and detailed step-by-step instructions to ensure successful utilization of the TMS.
