@@ -39,6 +39,9 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 
 ### Repository Structure 
 
-The repository is composed by a several folders, which one represents a version of Specif Application of TMS. The project is divided 
+The repository is composed by a several folders. The main focus are the folders that represents differents versions of a Specif Application of TMS. For example, the project is divided by regionsm, so we have a folder for each region of the project. At the end, we re going to mix all the regions, as a result, one folder for all regions we ll be created.
+
+
+
 
 
