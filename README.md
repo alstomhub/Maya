@@ -5,5 +5,3 @@ Welcome to the Train Maya Project repository! This repository serves as a compre
 - Detailed specifications
 - Project-related documents
 - User guides and tutorials
-
-Feel free to explore the contents and contribute to the project!
