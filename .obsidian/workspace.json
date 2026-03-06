@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "User Guides/ITB/Generating a TMS version.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Generating a TMS version"
             }
           }
         ]
@@ -174,8 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6ea4a4e657d7d28",
+  "active": "e2c67cc0c10aa0c8",
   "lastOpenFiles": [
+    "README.md",
+    "User Guides/ITB/Generating a TMS version.md",
+    "User Guides/ITB",
     "User Guides",
     "ITB",
     "Udemy/Redes de Computadores/Map.canvas",
@@ -221,11 +224,8 @@
     "Rocketseat/Tracks/Java/Spring Boot/Spring Security/Topicos.md",
     "Rocketseat/Tracks/Java/Spring Boot/Spring Security/Roles.md",
     "Rocketseat/Tracks/Java/Spring Boot/Spring Security/Autorização.md",
-    "Rocketseat/Tracks/Java/Spring Boot/Spring Security/AuthService.md",
     "Rocketseat/Tracks/Java/Spring Boot/Annotations/Annotations Sheet.canvas",
     "Untitled.base",
-    "Rocketseat/Tracks/Java/Spring Boot/Annotations/Spring Boot",
-    "Rocketseat/Tracks/Java/Spring Boot/Annotations/Spring Security",
     "FIAP/Cybersecurity/Cybersecurity.canvas",
     "FIAP/Testing, Compliance & QA/Testing, Compliance & QA.canvas",
     "DATABASE/Database.canvas",

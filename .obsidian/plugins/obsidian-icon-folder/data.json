@@ -6,6 +6,10 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSettings",
+      "LiTrainFront",
+      "LiAArrowDown",
+      "LiBookCheck",
       "LiTableConfig"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +33,8 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "User Guides": "LiBookCheck",
+  "User Guides/ITB": "LiTrainFront",
+  "User Guides/ITB/Generating a TMS version.md": "LiSettings"
 }
