@@ -31,7 +31,7 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 
 ### 4. Network Topology
 - Overview of the operational topology for implementing the TMS Level 2.
-- 
+
 
 ## Purpose of This Guide
 This guide aims to assist professionals involved in the implementation and optimization of ITB, providing clear and detailed step-by-step instructions to ensure successful utilization of the TMS.
