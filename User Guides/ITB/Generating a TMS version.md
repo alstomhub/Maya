@@ -4,9 +4,9 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 
 ---
 
-## Structure of the Guide
+# Structure of the Guide
 ### 0. [[#General]]
--  Repository Structure.
+-  Repository Overview.
 - COS.
 - Railml.
 - Initial Configuration.
@@ -38,10 +38,9 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 # General
 ### Repository Overview
 
-
 The repository comprises several folders, primarily focused on different versions of a specific application within the TMS (Transportation Management System). The structure is organized as follows:
 
-![[Pasted image 20260306170601.png|137]]
+![[Pasted image 20260306170634.png|165]]
 
 #### 1. Yellow Folders: General Documents and Configurations
 - **01_Documents**: Contains essential documentation relevant to the project.
@@ -51,6 +50,8 @@ The repository comprises several folders, primarily focused on different version
 - The repository features individual folders for each region, labeled with specific identifiers (e.g., `03_SpecificApplication_MXTM`, `03_SpecificApplication_MXTM_ILX15_16`, etc.). Each folder corresponds to a distinct version of the application tailored for that region.
 
 At the conclusion of the project, all regional versions will be consolidated into a single folder, representing the complete integration of the application across all regions.
+
+---
 
 
 
