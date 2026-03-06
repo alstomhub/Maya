@@ -36,10 +36,21 @@ This guide provides a comprehensive overview of the ITB (Interface of Bus Termin
 
 ---
 # General
+### Repository Overview
 
-### Repository Structure 
 
-The repository is composed by a several folders. The main focus are the folders that represents differents versions of a Specif Application of TMS. For example, the project is divided by regionsm, so we have a folder for each region of the project. At the end, we re going to mix all the regions, as a result, one folder for all regions we ll be created.
+The repository comprises several folders, primarily focused on different versions of a specific application within the TMS (Transportation Management System). The structure is organized as follows:
+
+![[Pasted image 20260306170601.png|137]]
+
+#### 1. Yellow Folders: General Documents and Configurations
+- **01_Documents**: Contains essential documentation relevant to the project.
+- **02_GenericApplication**: Includes generic configurations applicable across various versions.
+
+#### 2. Green Folders: Regional Versions of the Specific Application
+- The repository features individual folders for each region, labeled with specific identifiers (e.g., `03_SpecificApplication_MXTM`, `03_SpecificApplication_MXTM_ILX15_16`, etc.). Each folder corresponds to a distinct version of the application tailored for that region.
+
+At the conclusion of the project, all regional versions will be consolidated into a single folder, representing the complete integration of the application across all regions.
 
 
 
