@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "833201b8d43d22b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6420ea94ec3fd1e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c67cc0c10aa0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/Redes de Computadores/Track Contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Track Contents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "263f68ec08b69eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0efea727db08e2c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ea4a4e657d7d28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0948290cdebdd7fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c998161cd9e30ba0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "15b6cff475fd05f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "400f2726255548d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "551d6dadb57e364f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "09db6e9b974d82a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Enzo Rodrigues's Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Enzo Rodrigues's Notes"
+            }
+          },
+          {
+            "id": "90f00436973832d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ea3e14301498658",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Enzo Rodrigues's Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Enzo Rodrigues's Notes"
+            }
+          },
+          {
+            "id": "4662fcfd2ff169cd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e2c67cc0c10aa0c8",
+  "lastOpenFiles": [
+    "Udemy/Redes de Computadores/Map.canvas",
+    "Udemy/Redes de Computadores/Conceitos Iniciais/Modos de Transmissão.md",
+    "Udemy/Redes de Computadores/Conceitos Iniciais/Protocolos, Organizações e Padrões.md",
+    "Udemy/Redes de Computadores/Conceitos Iniciais/Topologias de Redes.md",
+    "Udemy/Redes de Computadores/Conceitos Iniciais/Arquitetura da Internet.md",
+    "Udemy/Redes de Computadores/Conceitos Iniciais/Classificação das redes e sua abrangência.md",
+    "Udemy/Redes de Computadores/Track Contents.md",
+    "_attachments/Pasted image 20251113170609.png",
+    "_attachments/Pasted image 20251113170550.png",
+    "_attachments/Pasted image 20251113170507.png",
+    "_attachments/Pasted image 20251113165532.png",
+    "_attachments/Pasted image 20251113165102.png",
+    "Udemy/Redes de Computadores/Packet Tracer/Packet Tracer.md",
+    "_attachments/Pasted image 20251113164005.png",
+    "Udemy/Redes de Computadores/Packet Tracer",
+    "Udemy/Redes de Computadores/Untitled.canvas",
+    "Udemy/Redes de Computadores/Conceitos Iniciais/O que é uma rede de computadores?.md",
+    "Udemy/Redes de Computadores/Comandos/Ping.md",
+    "Udemy/Redes de Computadores/Comandos/Traceroute.md",
+    "Udemy/Redes de Computadores/Comandos",
+    "_attachments/Pasted image 20251112154204.png",
+    "_attachments/Pasted image 20251112153328.png",
+    "_attachments/Pasted image 20251112153206.png",
+    "_attachments/Pasted image 20251112153201.png",
+    "Rocketseat/Tracks/Java/Spring Boot/Rest/HttpsStatus.md",
+    "Rocketseat/Tracks/Java/Spring Boot/Bean Validation/Validações com Spring Validator.md",
+    "Rocketseat/Tracks/Java/Spring Boot/JPA + Hibernate/Relacionamento de Entidades no JPA (com Hibernate).md",
+    "Udemy/Redes de Computadores/Wireshark/Wireshark.md",
+    "Rocketseat/Tracks/Java/Track Contents.md",
+    "Udemy/Redes de Computadores/Untitled.md",
+    "Rocketseat/Tracks/Java/Maps.canvas",
+    "Udemy/Redes de Computadores/Conceitos Iniciais",
+    "Rocketseat/Tracks/Java/Spring Boot/Spring Security/GrantedAuthority.md",
+    "Udemy/Redes de Computadores/Wireshark",
+    "Udemy/Redes de Computadores",
+    "Udemy",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Rocketseat/Tracks/Java/Spring Boot/JPA + Hibernate/JPA.md",
+    "Rocketseat/Tracks/Java/Spring Boot/Spring Security/Filtro Personalizado para autenticação JWT.md",
+    "Rocketseat/Tracks/Java/Spring Boot/Spring Security/Topicos.md",
+    "Rocketseat/Tracks/Java/Spring Boot/Spring Security/Roles.md",
+    "Rocketseat/Tracks/Java/Spring Boot/Spring Security/Autorização.md",
+    "Rocketseat/Tracks/Java/Spring Boot/Spring Security/AuthService.md",
+    "Rocketseat/Tracks/Java/Spring Boot/Annotations/Annotations Sheet.canvas",
+    "Untitled.base",
+    "Rocketseat/Tracks/Java/Spring Boot/Annotations/Spring Boot",
+    "Rocketseat/Tracks/Java/Spring Boot/Annotations/Spring Security",
+    "Rocketseat/Tracks/Java/Spring Boot/Spring Security",
+    "FIAP/Cybersecurity/Cybersecurity.canvas",
+    "FIAP/Testing, Compliance & QA/Testing, Compliance & QA.canvas",
+    "DATABASE/Database.canvas",
+    "FIAP/Arquitetura Orientada a serivços/basics/Arquitetura orientada a serviços.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
